@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         //TextView 변수 할당
         final TextView textView=(TextView) findViewById(R.id.textView);
-
+//
         //View의 버튼클릭시 이벤트 발생
         View.OnClickListener clickListener= new View.OnClickListener(){
             double num=0;
